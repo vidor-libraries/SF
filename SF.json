@@ -1,0 +1,10 @@
+{
+  "sc":{
+    "name":"SF",
+    "include":"sf.h",
+    "uid":"SF_UID",
+    "rpc":"sfRpc",
+    "ver":"sf_VER",
+    "loop":""
+  }
+}
